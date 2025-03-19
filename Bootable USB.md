@@ -1,6 +1,7 @@
 # EP-250318
 ## BOOTABLE USB
 [this is the video link for creating usb](https://www.youtube.com/watch?v=wmqX1-kQKa0)
+
 [this is a 2nd link](https://www.youtube.com/watch?v=NSRCZEKDMK8)
 ## steps for creating USB
 Step 1: Download the Windows ISO File
