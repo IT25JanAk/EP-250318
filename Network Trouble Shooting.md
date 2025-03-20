@@ -8,6 +8,7 @@ Question regarding Trouble shoot the issue
 “When exactly did this problem begin?”
 “How long/often is this happening?”
 “Can you tell me what you tried to fix this issue?
+
 [1st Link to solve the problem](http://support.google.com/fi/answer/6183600?hl=en)
 
 This link is more understandable to solve the problem beacuse each and every part is decribed in detail.
@@ -18,3 +19,9 @@ In this link connection problem is troublshoot with the use of video so this is 
 
 [3rd URL to troubleshoot the issue](https://www.driversupport.com/knowledge-article/solved-windows-10-wont-connect-to-wifi/)
 In my opinion, this link is camparitively less usefull to clear the problem.
+# 2 sites with trouble shooting info to the Access point or wifi router
+
+https://thewifispecialist.co.uk/blog/access-point-issues/
+This link is useful to acquire information in better way with details.
+https://www.techtarget.com/searchnetworking/tip/Wireless-network-troubleshooting-Connectivity
+I find this link more authentic as all data and steps are explained in steps and use of pictures for clear understanding.
