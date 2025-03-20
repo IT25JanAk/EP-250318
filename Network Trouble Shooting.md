@@ -3,10 +3,15 @@
 Question regarding Trouble shoot the issue
 
 “What led you to conclude that there was an issue?”
+
 “Can you tell me what you see on your screen?” 
+
 “Have you experienced this issue before?”
+
 “When exactly did this problem begin?”
+
 “How long/often is this happening?”
+
 “Can you tell me what you tried to fix this issue?
 
 [1st Link to solve the problem](http://support.google.com/fi/answer/6183600?hl=en)
