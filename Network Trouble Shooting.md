@@ -23,5 +23,6 @@ In my opinion, this link is camparitively less usefull to clear the problem.
 
 https://thewifispecialist.co.uk/blog/access-point-issues/
 This link is useful to acquire information in better way with details.
+
 https://www.techtarget.com/searchnetworking/tip/Wireless-network-troubleshooting-Connectivity
 I find this link more authentic as all data and steps are explained in steps and use of pictures for clear understanding.
