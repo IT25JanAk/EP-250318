@@ -1,7 +1,7 @@
 # System Information
 
-[1st link](https://www.reddit.com/r/Winsides/comments/1ixezkh/check_system_information_in_windows_11_using_the/)
-This URL provide the command line steps and powershell to systeminformation;however,this link is not much useful.
+[1st link](https://www.youtube.com/watch?v=__SOuRLP1so)
+This video link is more helpfull to open system information in command line.In this link all the steps are explained in audio-visuall way.
 
 [2nd link](https://www.tenforums.com/tutorials/67768-see-system-information-windows-10-a.html)
 
