@@ -9,8 +9,12 @@ Question regarding Trouble shoot the issue
 “How long/often is this happening?”
 “Can you tell me what you tried to fix this issue?
 [1st Link to solve the problem](http://support.google.com/fi/answer/6183600?hl=en)
+
 This link is more understandable to solve the problem beacuse each and every part is decribed in detail.
+
 [2nd attachment](https://www.youtube.com/watch?v=k3kHmVN4ng4)
+
 In this link connection problem is troublshoot with the use of video so this is more clerified proccess to catch the exact problem.
+
 [3rd URL to troubleshoot the issue](https://www.driversupport.com/knowledge-article/solved-windows-10-wont-connect-to-wifi/)
 In my opinion, this link is camparitively less usefull to clear the problem.
