@@ -14,4 +14,5 @@ Method 3: Search for "Task Manager" in the Start menu
 Steps to Open Resource Monitor:
 Option 1: In Task Manager, go to the Performance Tab and click Open Resource Monitor at the bottom.
 Option 2: Press Windows + R, type resmon, and hit Enter.
+
 [3rd Link](https://howto.hyonix.com/article/how-to-monitor-system-resources-on-a-windows/)
